@@ -2,7 +2,7 @@
 //  iTag_iOSTests.m
 //  iTag_iOSTests
 //
-//  Created by QIANG Shuya on 15/7/14.
+// Created by WENG Lilion 15/7/14.
 //  Copyright (c) 2015年 iTag_iOS_Group. All rights reserved.
 //
 
